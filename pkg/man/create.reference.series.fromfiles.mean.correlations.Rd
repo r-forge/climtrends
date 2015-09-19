@@ -27,13 +27,13 @@ refSeriesFile=NA,wholePeriod=FALSE,useDiff=TRUE,retInfo=FALSE)
 Stepanek, P. 2008
 AnClim - software for time series analysis
 Dept. of Geography, Fac. of Natural Sciences
-\url{MU, Brno. 1.47 MB. http://www.climahom.eu/AnClim.html}
+\url{http://www.climahom.eu/AnClim.html}
 }
 \references{
 Stepanek, P. 2008
 AnClim - software for time series analysis
 Dept. of Geography, Fac. of Natural Sciences
-\url{MU, Brno. 1.47 MB. http://www.climahom.eu/AnClim.html}
+\url{http://www.climahom.eu/AnClim.html}
 }
 \author{Jose Gama}
 \examples{

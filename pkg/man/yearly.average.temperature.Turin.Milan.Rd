@@ -11,12 +11,10 @@ and 7 rows (n=10, 20, 30, 40, 50, 100 and Inf) of data.
 \source{
 Historical Climatology Group, 2005
 Training session on homogenisation methods Bologna 17-18 May, 2005
-\url{http://www.isac.cnr.it/climstor/EVENTS/hom_training.html}
 }
 \references{
 Historical Climatology Group, 2005
 Training session on homogenisation methods Bologna 17-18 May, 2005
-\url{http://www.isac.cnr.it/climstor/EVENTS/hom_training.html}
 }
 \author{Jose Gama}
 \examples{

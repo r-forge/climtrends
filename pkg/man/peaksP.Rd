@@ -16,11 +16,9 @@ peaksP(dataSeries,span=3)
 }
 \source{
 R equivalent of Splus peaks() function
-\url{http://finzi.psych.upenn.edu/R/Rhelp02a/archive/33097.html}
 }
 \references{
 R equivalent of Splus peaks() function
-\url{http://finzi.psych.upenn.edu/R/Rhelp02a/archive/33097.html}
 }
 \author{Jose Gama}
 \examples{
