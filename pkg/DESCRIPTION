@@ -1,7 +1,7 @@
 Package: climtrends
 Type: Package
 Title: Statistical Methods for Climate Sciences
-Version: 1.0.5
+Version: 1.0.6
 Encoding: UTF-8
 Authors@R: c(person(given = "Jose", family = "Gama", role = c("aut","cre"),email = "rxprtgama@gmail.com"))
 Description: Absolute homogeneity tests SNHT absolute 1-breaks, 1-break, 
